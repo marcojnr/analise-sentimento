@@ -5,16 +5,16 @@
 
 ###### TCC - MARCO BATISTA DA SILVA JUNIOR - ENGENHARIA DA COMPUTAÇÃO
 
-##### REPOSITORIO HÁ DOIS ARQUIVOS PRINCIPAIS:
+##### O REPOSITORIO HÁ DOIS ARQUIVOS PRINCIPAIS:
 1. **api_youtube** - para extrair comentarios do video
-2. **analise**
+2. **analise** - toda analise do texto coletado
 
 ### PASSO A PASSO:
 
 
 
 ### 1. Clonar 
-##### Para iniciar o desenvolvimento, é necessário clonar o projeto em seu diretório de preferência usando o seguinte comando:
+##### Para iniciar o desenvolvimento, é necessário clonar o projeto em seu diretório de preferência usando o seguinte comando no terminal:
  
 ```
 git clone https://github.com/marcojnr/analise-sentimento.git
@@ -36,3 +36,4 @@ venv\Script\activate
 ```
 pip install -r requirements.txt
 ```
+continua...

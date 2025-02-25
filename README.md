@@ -1,9 +1,13 @@
 # **Analise de Sentimento**
 
 
-#### Esse projeto tem o propósito de extrair comentarios de um video do Youtube e fazer uma analise de sentimento.
+#### Esse projeto tem o propósito de extrair comentarios de qualquer video do Youtube e fazer uma analise de sentimento definindo um padrão do texto.
 
-###### TCC - MARCO BATISTA DA SILVA JUNIOR - ENGENHARIA DA COMPUTAÇÃO
+###### TCC - MARCO BATISTA DA SILVA JUNIOR - ENGENHARIA DA COMPUTAÇÃO - ESTACIO DE SÁ 2024.2
+
+##### veja documentação do tcc em ->  [DOC TCC](https://docs.google.com/document/d/e/2PACX-1vQCcJgKuDNtDvwF-kxkwDJH5fsXSyVUa3v4Z0gflVQkkm51ihxhuBfv_ZCOv8jkQQ/pub)
+
+para testar o codigo veja o passo a passo abaixo.
 
 ##### O REPOSITORIO HÁ DOIS ARQUIVOS PRINCIPAIS:
 1. **api_youtube** - para extrair comentarios do video

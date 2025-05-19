@@ -40,4 +40,15 @@ venv\Script\activate
 ```
 pip install -r requirements.txt
 ```
-continua...
+### 4. Conta
+##### É necessario criar conta no google develop para acesso da API.
+*https://developers.google.com/youtube/v3/getting-started?hl=pt*
+
+### 5. Inicio Coleta
+##### Para coletar os comentarios, abre o prompt e chame o api_youtube.py e em seguida o link do video.
+```
+api_youtube.py link_do_video
+```
+### 6. Analise
+##### Analise completa da raspagem feita do video e resultado dos sentimento em analise.ipynb.
+obs veja mais detalhes no doc do tcc.
